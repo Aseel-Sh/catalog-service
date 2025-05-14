@@ -8,7 +8,7 @@ import { Product } from "../models/product.model";
      update(data: Product): Promise<Product> {
          throw new Error("Method not implemented.");
      }
-     delete(id: any): Promise<void> {
+     delete(id: any): Promise<any> {
          throw new Error("Method not implemented.");
      }
      find(): Promise<Product[]> {

@@ -7,3 +7,5 @@ dist/
 # Environment variables
 .env
 
+# Test coverage reports
+coverage/
